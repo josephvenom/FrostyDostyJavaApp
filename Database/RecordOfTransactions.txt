@@ -1,0 +1,1 @@
+transaction{transaction_code='8314', transaction_date=2023-05-01 22:33:49, description='Client Order', amount=72.0}
